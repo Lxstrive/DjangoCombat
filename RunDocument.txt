@@ -1,13 +1,14 @@
-1. ÏÈ°²×°mysql
-   °²×°µÄÊ±ºòĞèÒªÃÜÂëÉèÖÃÎª123456
+1. å…ˆå®‰è£…mysql
+   å®‰è£…çš„æ—¶å€™éœ€è¦å¯†ç è®¾ç½®ä¸º123456
 
-2. Í¨¹ınavicat ĞÂ½¨Êı¾İ¿â ¿âÃûÎªlianxi
+2. é€šè¿‡navicat æ–°å»ºæ•°æ®åº“ åº“åä¸ºlianxi
 
-3. navicat µ¼ÈësqlÎÄ¼ş
+3. navicat å¯¼å…¥sqlæ–‡ä»¶
 
-4. pip install -r requirements.txt °²×°ÒÀÀµ°ü
-5. http://www.lfd.uci.edu/~gohlke/pythonlibs/#mysql-python ÏÂÔØ MySQL_python-1.2.5-cp27-none-win_amd64.whl
-    È»ºópip install MySQL_python-1.2.5-cp27-none-win_amd64.whl °²×°mysqldbÇı¶¯
+4. pip install -r requirements.txt å®‰è£…ä¾èµ–åŒ…
+5. http://www.lfd.uci.edu/~gohlke/pythonlibs/#mysql-python ä¸‹è½½ MySQL_python-1.2.5-cp27-none-win_amd64.whl
+    ç„¶åpip install MySQL_python-1.2.5-cp27-none-win_amd64.whl å®‰è£…mysqldbé©±åŠ¨
 6. python manage.py runserver
 
-7. ä¯ÀÀÆ÷ÖĞÊäÈë 127.0.0.1:8000·ÃÎÊ
+7. æµè§ˆå™¨ä¸­è¾“å…¥ 127.0.0.1:8000è®¿é—®
+8.127.0.0.1:8000/xadmin  ç”¨æˆ·ålianxi å¯†ç lianxi123
