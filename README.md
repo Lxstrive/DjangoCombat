@@ -1,13 +1,13 @@
 '安装虚拟环境'
 pip install virtualenv
-'2'
+
 
 pip install virtualenvwrapper-win
 '创建虚拟环境'
 
 virtualenv 虚拟环境名
 
-'2'
+
 mkvirtualenv 虚拟环境名
 '进入虚拟环境'
 cd testvir
