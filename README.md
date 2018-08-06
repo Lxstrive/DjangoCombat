@@ -6,17 +6,17 @@
 
 
 
->>1.进入到项目所在目录找到` requirements.txt `安装项目所需环境
+>> 1.进入到项目所在目录找到` requirements.txt `安装项目所需环境
 
->>2.pip install -r requirements.txt
+>> 2.pip install -r requirements.txt
 
->>3.安装mysql数据库 密码 ：123456
+>> 3.安装mysql数据库 密码 ：123456
 
->>4.先安装mysql安装的时候需要密码设置为123456
+>> 4.先安装mysql安装的时候需要密码设置为123456
 
->>5. 通过navicat 新建数据库 库名为lianxi
+>> 5. 通过navicat 新建数据库 库名为lianxi
 
->>6. navicat 导入sql文件
+>> 6. navicat 导入sql文件
     
 >>7. pip install -r requirements.txt 安装依赖包
     
